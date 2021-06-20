@@ -4,7 +4,7 @@ title: "产品设计的五个层次"
 subtitle: "产品经理书单"
 date: 2021-06-20
 author: "Finch"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-ios9-web.jpg"
 tags: ["产品", "产品思维", "产品设计"]
 ---
 
